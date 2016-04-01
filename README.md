@@ -1,4 +1,4 @@
-# IMS
+# IMS123
 A Full-stack web application in React and Laravel REST API. Which includes Category, Brand, Product, Employee management, 
 Also includes employee attendance and payment system, and point of sell including invoice. 
 We also used JWT authentication and integrate Razor Pay gateway and SSL payment gateway for online payment.

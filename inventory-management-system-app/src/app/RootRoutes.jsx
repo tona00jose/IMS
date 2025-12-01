@@ -1,4 +1,3 @@
-import React from 'react'
 import { Redirect } from 'react-router-dom'
 import dashboardRoutes from './dashboard/DashboardRoutes'
 import attendanceRoutes from './views/attendance/AttendanceRoutes'
@@ -16,7 +15,7 @@ const redirectRoute = [
     {
         path: '/',
         exact: true,
-        component: () => <Redirect to="/dashboard/default" />,
+        component: () => <Redirect to="/" />,
     },
 ]
 
